@@ -1,16 +1,24 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Amanda;Tenho+31+anos;Sou+de+Campina+Grande,+PB;Estou+focada+em+Análise+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<!--
-**amandaofcosta/amandaofcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+  Sou uma estudante apaixonada por tecnologia, atualmente cursando o segundo período de **Análise e Desenvolvimento de Sistemas** pela Estácio.
+  Estou desenvolvendo habilidades sólidas em **Programação**, **Análise de Dados** e **Sistemas Operacionais** para construir uma carreira promissora na área de **Dados**.
+  Além disso, estudo **Administração de Empresas**, o que me permite integrar conhecimentos de gestão e estratégia aos projetos de TI, entendendo o impacto da tecnologia no desempenho organizacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Principais Habilidades:
+![Python](https://img.shields.io/badge/-Python-2f2f2f?style=for-the-badge&logo=python&labelColor=2f2f2f)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-2f2f2f?style=for-the-badge&logo=MySQL&labelColor=2f2f2f)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-2f2f2f?style=for-the-badge&logo=microsoft-excel&labelColor=2f2f2f)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-2f2f2f?style=for-the-badge&logo=power-bi&labelColor=2f2f2f)&nbsp;
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=amandaofcosta&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br" 
+  />
